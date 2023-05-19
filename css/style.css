@@ -1,0 +1,66 @@
+/*General*/
+
+h1{
+    color: black;
+}
+
+/*index*/
+
+
+
+
+.messi{
+     width: 100%;
+     height: 100%;
+}
+
+ul
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.ubicacion{
+    margin: 20px;
+    padding: 15px;
+}
+
+/*pages-articulos*/
+
+.camisetaImagen{
+    width: 350px;
+}
+
+.botinesImagen{
+    width: 350px;
+}
+
+.balonesImagen{
+    width: 350px;
+}
+
+.ContactoImagen{
+    width: 64px;
+}
+
+.ofertas{
+    width: 350px;
+}
+
+.btn{
+    background-color: red;
+    padding: 10px;
+    border-radius: 6px;
+}
+
+
+
+
+
+body{
+    background-color: rgb(196, 186, 186);
+}
