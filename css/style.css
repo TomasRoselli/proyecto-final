@@ -1,64 +1,58 @@
-/*General*/
-
-h1{
-    color: black;
+h1 {
+  color: black;
 }
 
-/*index*/
-
-.messi{
-    height: 100%;
-    width: 100%;
+a {
+  text-decoration: none;
+  color: black;
 }
 
-
-ul
-li{
-    list-style: none;
+hr {
+  margin: 0;
 }
 
-a{
-    text-decoration: none;
-    color: black;
+li {
+  list-style: none;
 }
 
-.ubicacion{
-    margin: 20px;
-    padding: 15px;
+body {
+  background-color: rgb(196, 186, 186);
 }
 
-/*pages-articulos*/
-
-.camisetaImagen{
-    width: 350px;
+.btn {
+  background-color: red;
+  padding: 10px;
+  border-radius: 6px;
 }
 
-.botinesImagen{
-    width: 350px;
+.messi {
+  height: 100%;
+  width: 100%;
 }
 
-.balonesImagen{
-    width: 350px;
+.ubicacion {
+  margin: 20px;
+  padding: 15px;
 }
 
-.ContactoImagen{
-    width: 64px;
+.camisetaImagen {
+  width: 350px;
 }
 
-.ofertas{
-    width: 350px;
+.balonesImagen {
+  width: 350px;
 }
 
-.btn{
-    background-color: red;
-    padding: 10px;
-    border-radius: 6px;
+.botinesImagen {
+  width: 350px;
 }
 
-
-
-
-
-body{
-    background-color: rgb(196, 186, 186);
+.ofertas {
+  width: 350px;
 }
+
+.ContactoImagen {
+  width: 64px;
+}
+
+/*# sourceMappingURL=style.css.map */
