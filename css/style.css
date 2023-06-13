@@ -24,6 +24,11 @@ body {
   border-radius: 6px;
 }
 
+.nav-link {
+  color: white;
+  background-color: black;
+}
+
 .messi {
   height: 100%;
   width: 100%;
