@@ -23,6 +23,10 @@ body {
   padding: 10px;
   border-radius: 6px;
 }
+.btn:hover {
+  color: white;
+  background-color: black;
+}
 
 .nav-link {
   color: white;

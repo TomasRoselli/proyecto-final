@@ -2,4 +2,9 @@
     background-color: red;
     padding: 10px;
     border-radius: 6px;
+
+    &:hover{
+        color: white;
+        background-color: black;
+    }
 }
