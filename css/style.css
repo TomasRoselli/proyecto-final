@@ -9,6 +9,7 @@ hr {
 nav ul li {
   list-style: none;
 }
+
 nav ul li a {
   text-decoration: none;
   color: black;
@@ -23,6 +24,7 @@ body {
   padding: 10px;
   border-radius: 6px;
 }
+
 .btn:hover {
   color: white;
   background-color: black;
