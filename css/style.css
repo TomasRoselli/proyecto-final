@@ -43,6 +43,10 @@ body {
   padding: 15px;
 }
 
+.logos {
+  width: 64px;
+}
+
 .camisetaImagen {
   width: 100%;
 }
@@ -60,7 +64,7 @@ body {
 }
 
 .ContactoImagen {
-  width: 64px;
+  width: 30px;
 }
 
 .Contacto {
@@ -75,6 +79,10 @@ body {
 .messi {
   height: 100%;
   width: 100%;
+}
+
+.texto {
+  font-size: 1rem;
 }
 
 /*# sourceMappingURL=style.css.map */
