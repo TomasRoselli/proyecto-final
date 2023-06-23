@@ -44,7 +44,7 @@ body {
 }
 
 .logos {
-  width: 64px;
+  width: 30px;
 }
 
 .camisetaImagen {
@@ -83,6 +83,7 @@ body {
 
 .texto {
   font-size: 1rem;
+  margin: 2%;
 }
 
 /*# sourceMappingURL=style.css.map */
